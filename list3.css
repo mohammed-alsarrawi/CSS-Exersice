@@ -1,0 +1,32 @@
+body{margin: 50;}
+div a{
+    color: rgb(255, 183, 0);
+}
+div li{
+    color: blue;
+}
+span{
+    color: red;
+    text-decoration-color: red;
+}
+div span{
+    color: blue;
+}
+p span {
+    background-color: yellow;
+    text-decoration: underline;
+    text-decoration-color: black;
+    color: black;
+}
+div ul{
+    list-style-type: none;
+}
+h2{
+    text-decoration: underline;
+}
+a span{
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+
+}
